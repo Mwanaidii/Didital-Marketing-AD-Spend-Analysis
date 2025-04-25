@@ -1,5 +1,5 @@
-# Digital-Marketing-AD-Spend-Analysis - Power  BI
-This project centered on the analysis of marketing ad campaigns for an online grocery store, with the objective of optimizing ad spending to enhance business outcomes. # Advertising-and-Marketing-Strategy-Analysis - Power BI
+# Digital-Marketing-AD-Spend-Analysis 
+This project centered on the analysis of marketing ad campaigns for an online grocery store, with the objective of optimizing ad spending to enhance business outcomes. 
 
 ### Table of Contents
 - [Project Overview](#project-overview)
